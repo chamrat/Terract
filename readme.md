@@ -1,6 +1,6 @@
 ## Terract Application
 
-This application is developed to manage properties, landlords and tenants.
+This application is developed to manage properties and tenants by landlords or brokers.
 Below are the steps to set up it in a new environment.
 
 - Clone the code from bitbucket. Please checkout the code in develop branch for latest code.

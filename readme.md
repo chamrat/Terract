@@ -1,7 +1,7 @@
 ## Terract Application
 
 This application is developed to manage properties, landlords and tenants.
-Bellow are the steps to set up it in a new environment.
+Below are the steps to set up it in a new environment.
 
 - Clone the code from bitbucket. Please checkout the code in develop branch for latest code.
 - Run **composer install** command to pull core laravel code.

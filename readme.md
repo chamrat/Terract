@@ -3,7 +3,7 @@
 This application is developed to manage properties and tenants by landlords or brokers.
 Below are the steps to set up it in a new environment.
 
-- Clone the code from bitbucket. Please checkout the code in develop branch for latest code.
+- Clone the code from GitHub.
 - Run **composer install** command to pull core laravel code.
 - Create a database in MySQL server and do the configuration in **.env** file in the source root.
 - Run **php artisan migrate --seed** command to install the database.
